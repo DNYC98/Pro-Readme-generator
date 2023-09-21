@@ -5,7 +5,7 @@ A professional Readme file generator that takes input through the command line
 ## Deployed Application URL
 N/A
 ## Screenshot
-![alt-text](https://drive.google.com/file/d/1yO6T0h7gcDWv2HG3sS6-aJXITT1IDCif/view)
+(https://drive.google.com/file/d/1yO6T0h7gcDWv2HG3sS6-aJXITT1IDCif/view)
 ## Table of Contents
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
